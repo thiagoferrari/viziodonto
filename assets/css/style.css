@@ -83,23 +83,23 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #84c03f;
-  width: 40px;
+  background: #0e6d25;
+  width: 200px;
   height: 40px;
   border-radius: 4px;
   transition: all 0.4s;
 }
 
 .back-to-top i {
-  font-size: 28px;
+  font-size: 15px;
   color: #fff;
   line-height: 0;
 }
 
-.back-to-top:hover {
-  background: #0e6d25;
+/* .back-to-top:hover {
+  background: #84c03f;
   color: #fff;
-}
+} */
 
 .back-to-top.active {
   visibility: visible;
